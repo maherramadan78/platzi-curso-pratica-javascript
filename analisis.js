@@ -1,3 +1,4 @@
+//helpers
 function esPar(numerito) {
     return (numerito % 2 === 0);
   }
@@ -59,4 +60,4 @@ function esPar(numerito) {
     medianaTop10Col,
   });
   
-  
+   
